@@ -40,11 +40,10 @@ public class MainClass {
 		
 		
 		System.out.println("The given array is:" );
-		
-		
+		System.out.println("The given array is:" );
 		
 		for (int i = 0; i < arr.length; i++) {
-			System.out.print(arr[0]+"\t");
+			System.out.print(arr[i]+"\t");
 		}
 		
 		
